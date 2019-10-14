@@ -1,0 +1,9 @@
+C:\Users\CRM\source\repos\Emprunts\ClassLibraryEmprunt\bin\Debug\netstandard2.0\ClassLibraryEmprunt.deps.json
+C:\Users\CRM\source\repos\Emprunts\ClassLibraryEmprunt\bin\Debug\netstandard2.0\ClassLibraryEmprunt.dll
+C:\Users\CRM\source\repos\Emprunts\ClassLibraryEmprunt\bin\Debug\netstandard2.0\ClassLibraryEmprunt.pdb
+C:\Users\CRM\source\repos\Emprunts\ClassLibraryEmprunt\obj\Debug\netstandard2.0\ClassLibraryEmprunt.csprojAssemblyReference.cache
+C:\Users\CRM\source\repos\Emprunts\ClassLibraryEmprunt\obj\Debug\netstandard2.0\ClassLibraryEmprunt.csproj.CoreCompileInputs.cache
+C:\Users\CRM\source\repos\Emprunts\ClassLibraryEmprunt\obj\Debug\netstandard2.0\ClassLibraryEmprunt.AssemblyInfoInputs.cache
+C:\Users\CRM\source\repos\Emprunts\ClassLibraryEmprunt\obj\Debug\netstandard2.0\ClassLibraryEmprunt.AssemblyInfo.cs
+C:\Users\CRM\source\repos\Emprunts\ClassLibraryEmprunt\obj\Debug\netstandard2.0\ClassLibraryEmprunt.dll
+C:\Users\CRM\source\repos\Emprunts\ClassLibraryEmprunt\obj\Debug\netstandard2.0\ClassLibraryEmprunt.pdb
